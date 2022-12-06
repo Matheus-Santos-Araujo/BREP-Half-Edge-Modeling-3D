@@ -51,7 +51,7 @@ void BREP::Sphere(float pX, float pY, float pZ, float radius, int disc) {
         // Ponto e aresta gerados pela circuferencia
         mev(NULL, NULL, qtd - 1, 0, idNum, radius * cos(angle), radius * sin(angle), 0.0);
     }
-    // Deslocamento positivo com angulo 2pi e 
+    // Deslocamento positivo com angulo 2pi 
     rvarr(qtd - 1, 0, 2 * disc, 2 * M_PI);
 }
 

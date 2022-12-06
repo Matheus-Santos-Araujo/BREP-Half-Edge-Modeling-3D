@@ -41,7 +41,7 @@ public:
     HalfEdge();
     ~HalfEdge();
 
-    HalfEdge* mate();
+    HalfEdge* other();
 
     Vertex* origin;
     Loop* loop;

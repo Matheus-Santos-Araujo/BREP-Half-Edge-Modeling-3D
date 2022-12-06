@@ -29,7 +29,7 @@ HalfEdge* addhe(Edge *e, Vertex *v, HalfEdge *h, HEd sign) {
 HalfEdge::~HalfEdge() {}
 
 // Retorna HE da outra ponta
-HalfEdge* HalfEdge::mate() { return (this == edge->hed1) ? this->edge->hed2 : this->edge->hed1; }
+HalfEdge* HalfEdge::other() { return (this == edge->hed1) ? this->edge->hed2 : this->edge->hed1; }
 
 // Deleta Half Edge
 HalfEdge* delhe(HalfEdge *he) {

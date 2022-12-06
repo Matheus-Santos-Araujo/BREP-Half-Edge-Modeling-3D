@@ -1,4 +1,48 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Octree.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  bezier.cpp
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(178,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(192,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(197,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(202,20): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(262,1): warning C4267: 'return': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(391,15): warning C4244: 'argumento': conversão de 'const int' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(393,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,62): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,45): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,28): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,64): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,77): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,90): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(152,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(160,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(52,70): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(52,52): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(52,34): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(63,70): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(63,52): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(63,34): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(64,82): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(64,60): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(64,38): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(77,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(81,46): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(81,36): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(81,26): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(82,49): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(82,38): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(82,27): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
   Edge.cpp
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(178,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(192,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
@@ -111,137 +155,6 @@ C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelag
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,90): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(152,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(160,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-  Mesh.cpp
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(178,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(192,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(197,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(202,20): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(262,1): warning C4267: 'return': conversão de 'size_t' para 'unsigned int', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(391,15): warning C4244: 'argumento': conversão de 'const int' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(393,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,62): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
-          with
-          [
-              _Ty=double
-          ]
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,45): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
-          with
-          [
-              _Ty=double
-          ]
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,28): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
-          with
-          [
-              _Ty=double
-          ]
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,64): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,77): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,90): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(152,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(160,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\Mesh.cpp(9,23): warning C4305: '=': truncamento de 'double' para 'float'
-  Vertex.cpp
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(178,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(192,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(197,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(202,20): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(262,1): warning C4267: 'return': conversão de 'size_t' para 'unsigned int', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(391,15): warning C4244: 'argumento': conversão de 'const int' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(393,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,62): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
-          with
-          [
-              _Ty=double
-          ]
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,45): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
-          with
-          [
-              _Ty=double
-          ]
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,28): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
-          with
-          [
-              _Ty=double
-          ]
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,64): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,77): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,90): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(152,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(160,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-  bezier.cpp
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(178,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(192,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(197,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(202,20): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(262,1): warning C4267: 'return': conversão de 'size_t' para 'unsigned int', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(391,15): warning C4244: 'argumento': conversão de 'const int' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(393,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,62): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
-          with
-          [
-              _Ty=double
-          ]
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,45): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
-          with
-          [
-              _Ty=double
-          ]
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,28): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
-          with
-          [
-              _Ty=double
-          ]
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,64): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,77): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,90): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(152,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(160,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(52,70): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(52,52): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(52,34): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(63,70): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(63,52): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(63,34): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(64,82): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(64,60): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(64,38): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(77,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(81,46): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(81,36): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(81,26): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(82,49): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(82,38): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\bezier.cpp(82,27): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
-  eulerops.cpp
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(178,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(192,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(197,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(202,20): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(262,1): warning C4267: 'return': conversão de 'size_t' para 'unsigned int', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(391,15): warning C4244: 'argumento': conversão de 'const int' para 'GLfloat', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(393,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,62): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
-          with
-          [
-              _Ty=double
-          ]
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,45): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
-          with
-          [
-              _Ty=double
-          ]
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,28): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
-          with
-          [
-              _Ty=double
-          ]
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,64): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,77): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,90): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(152,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(160,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\eulerops.cpp(5,1): warning C4005: 'M_PI': redefinição de macro
-C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(5): message : consulte a definição anterior de 'M_PI'
   main.cpp
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(178,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(192,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
@@ -277,6 +190,35 @@ C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelag
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\main.cpp(92,30): warning C4305: '-=': truncamento de 'double' para 'float'
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\main.cpp(93,30): warning C4305: '-=': truncamento de 'double' para 'float'
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\main.cpp(94,30): warning C4305: '-=': truncamento de 'double' para 'float'
+  Mesh.cpp
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(178,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(192,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(197,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(202,20): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(262,1): warning C4267: 'return': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(391,15): warning C4244: 'argumento': conversão de 'const int' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(393,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,62): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,45): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,28): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,64): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,77): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,90): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(152,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(160,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\Mesh.cpp(9,23): warning C4305: '=': truncamento de 'double' para 'float'
   primitive.cpp
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(178,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(192,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
@@ -317,6 +259,64 @@ C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelag
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\primitive.cpp(64,15): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\primitive.cpp(66,21): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\primitive.cpp(69,37): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  eulerops.cpp
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(178,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(192,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(197,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(202,20): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(262,1): warning C4267: 'return': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(391,15): warning C4244: 'argumento': conversão de 'const int' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(393,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,62): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,45): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,28): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,64): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,77): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,90): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(152,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(160,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\eulerops.cpp(5,1): warning C4005: 'M_PI': redefinição de macro
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(5): message : consulte a definição anterior de 'M_PI'
+  Vertex.cpp
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(178,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(192,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(197,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(202,20): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(262,1): warning C4267: 'return': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(391,15): warning C4244: 'argumento': conversão de 'const int' para 'GLfloat', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(393,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,62): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,45): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\vectorops.h(405,28): warning C4244: 'argumento': conversão de 'const _Ty' para 'GLfloat', possível perda de dados
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,64): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,77): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(16,90): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(152,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\DataStructs.h(160,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
   Gerando Código...
 C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\Octree\HalfEdge.cpp(48): warning C4715: 'delhe': nem todos os caminhos de controle retornam um valor
   Octree.vcxproj -> C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\2  semestre\Modelagem Geométrica\Trabalho 3\Octree-MG\x64\Debug\Octree-MG.exe

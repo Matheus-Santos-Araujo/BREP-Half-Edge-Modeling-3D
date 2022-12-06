@@ -29,7 +29,7 @@ void BREP::mvfs(float x, float y, float z) {
 
 bool BREP::mev(HalfEdge* he1, HalfEdge* he2, int idSolid, int idFace, int idVertex1, float x, float y, float z) {
     if (he1 == NULL || he2 == NULL) {
-        // Se forem novas half edges as instância e inicializa
+        // Se forem novas half edges as instancia e inicializa
         Mesh* s;
         HalfEdge* he;
         Face* fn;
@@ -55,7 +55,7 @@ bool BREP::mev(HalfEdge* he1, HalfEdge* he2, int idSolid, int idFace, int idVert
     henew = he1;
     while (he1 != he2) {
         henew->origin = v;
-        henew = henew->mate()->prox;
+        henew = henew->other()->prox;
     }
 
     // Add novas half edges com sinais em ordem
@@ -70,7 +70,7 @@ bool BREP::mev(HalfEdge* he1, HalfEdge* he2, int idSolid, int idFace, int idVert
 
 bool BREP::mef(HalfEdge* h1, HalfEdge* h2, int idSolid, int idFace, int idVertex1, int idVertex2) {
     if (h1 == NULL || h2 == NULL) {
-        // Se forem novas half edges as instância e inicializa
+        // Se forem novas half edges as instancia e inicializa
         Mesh* s;
         Face* f;
         HalfEdge* he1, * he2;
@@ -158,7 +158,7 @@ void BREP::varr(int idSolid, int idFace, float dx, float dy, float dz) {
             mev(current->prox, current->prox, NULL, NULL, NULL, v->x + dx, v->y + dy, v->z + dz);
             // Cria a face
             mef(current->ant, current->prox->prox, NULL, NULL, NULL, NULL);
-            current = current->prox->mate()->prox;
+            current = current->prox->other()->prox;
         }
         mef(current->ant, current->prox->prox, NULL, NULL, NULL, NULL);
 
@@ -196,13 +196,13 @@ void BREP::rvarr(int idSolid, int idFace, int disc, float angle) {
             v = rotateVec(vcoord, q);
             mev(current->ant, current->ant, NULL, NULL, NULL, v.x, v.y, v.z);
             mef(current->ant->ant, current->prox, NULL, NULL, NULL, NULL);
-            current = current->prox->prox->mate();
+            current = current->prox->prox->other();
         }
         last = current;
-        cfirst = cfirst->prox->prox->mate();
+        cfirst = cfirst->prox->prox->other();
     }
     while(cfirst != current) {
         mef(cfirst, cfirst->prox->prox->prox, NULL, NULL, NULL, NULL);
-        cfirst = cfirst->ant->mate()->ant;
+        cfirst = cfirst->ant->other()->ant;
     }
 }
